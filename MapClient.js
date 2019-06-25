@@ -68,7 +68,7 @@ function start(){
            			'KEY': 'key',
 	    			'DOMAIN': 'localhost:8080',
 	    			//서버용
-           			//'KEY': 'BEED5E69-107E-3582-955D-FB1C66418225',
+
 	    			//'DOMAIN': 'burtis.or.kr:8081',
 	    			'WIDTH': '256',
 	    			'HEIGHT': '256',
